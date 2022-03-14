@@ -19,7 +19,7 @@
 
 ## 💬 Find me in
 
-- [Blog](https://wplai.me)
+- [Blog](https://wplai.xyz)
 - [Telegram](https://t.me/wp_lai)
 - [Dune](https://dune.xyz/wplai)
 - [Gitcoin](https://gitcoin.co/wp-lai)
